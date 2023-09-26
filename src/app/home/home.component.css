@@ -18,8 +18,8 @@ input[type="text"] {
 
 button {
   padding: 10px;
-  border: solid 1px blue;
-  background: blue;
+  border: solid 1px var(--primary-color);
+  background: var(--primary-color);
   color: white;
   border-radius: 8px;
 }
